@@ -1,0 +1,827 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Source Sans 3";
+  height: 2000px;
+}
+
+.name {
+  width: 7rem;
+  height: 2.5rem;
+  color: #EC6705;
+  border-bottom: 1px solid red;
+  font-weight: 600;
+  font-size: 16px;
+  margin-left: 1rem;
+}
+
+.container {
+  margin-top: 40px;
+  width: 100%;
+  height: 1600px;
+}
+.container .first {
+  width: 100%;
+  height: 253px;
+  margin-left: 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+.container .first .one .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .first .one .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .first .one .text1:hover {
+  opacity: 0.9;
+}
+.container .first .one .text {
+  width: 267px;
+  height: 95px;
+}
+.container .first .two .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .first .two .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .first .two .text1:hover {
+  opacity: 0.9;
+}
+.container .first .two .text {
+  width: 267px;
+  height: 95px;
+}
+.container .first .three .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .first .three .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .first .three .text1:hover {
+  opacity: 0.9;
+}
+.container .first .three .text {
+  width: 267px;
+  height: 95px;
+}
+.container .first .four .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .first .four .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .first .four .text1:hover {
+  opacity: 0.9;
+}
+.container .first .four .text {
+  width: 267px;
+  height: 95px;
+}
+.container .second {
+  width: 100%;
+  height: 253px;
+  margin-left: 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+.container .second .one .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .second .one .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .second .one .text1:hover {
+  opacity: 0.9;
+}
+.container .second .one .text {
+  width: 267px;
+  height: 95px;
+}
+.container .second .two .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .second .two .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .second .two .text1:hover {
+  opacity: 0.9;
+}
+.container .second .two .text {
+  width: 267px;
+  height: 95px;
+}
+.container .second .three .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .second .three .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .second .three .text1:hover {
+  opacity: 0.9;
+}
+.container .second .three .text {
+  width: 267px;
+  height: 95px;
+}
+.container .second .four .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .second .four .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .second .four .text1:hover {
+  opacity: 0.9;
+}
+.container .second .four .text {
+  width: 267px;
+  height: 95px;
+}
+.container .third {
+  width: 100%;
+  height: 253px;
+  margin-left: 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+.container .third .one .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .third .one .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .third .one .text1:hover {
+  opacity: 0.9;
+}
+.container .third .one .text {
+  width: 267px;
+  height: 95px;
+}
+.container .third .two .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .third .two .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .third .two .text1:hover {
+  opacity: 0.9;
+}
+.container .third .two .text {
+  width: 267px;
+  height: 95px;
+}
+.container .third .three .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .third .three .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .third .three .text1:hover {
+  opacity: 0.9;
+}
+.container .third .three .text {
+  width: 267px;
+  height: 95px;
+}
+.container .third .four .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .third .four .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .third .four .text1:hover {
+  opacity: 0.9;
+}
+.container .third .four .text {
+  width: 267px;
+  height: 95px;
+}
+.container .fourth {
+  width: 100%;
+  height: 253px;
+  margin-left: 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+.container .fourth .one .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .fourth .one .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .fourth .one .text1:hover {
+  opacity: 0.9;
+}
+.container .fourth .one .text {
+  width: 267px;
+  height: 95px;
+}
+.container .fourth .two .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .fourth .two .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .fourth .two .text1:hover {
+  opacity: 0.9;
+}
+.container .fourth .two .text {
+  width: 267px;
+  height: 95px;
+}
+.container .fourth .three .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .fourth .three .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .fourth .three .text1:hover {
+  opacity: 0.9;
+}
+.container .fourth .three .text {
+  width: 267px;
+  height: 95px;
+}
+.container .fourth .four .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .fourth .four .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .fourth .four .text1:hover {
+  opacity: 0.9;
+}
+.container .fourth .four .text {
+  width: 267px;
+  height: 95px;
+}
+.container .fifth {
+  width: 100%;
+  height: 253px;
+  margin-left: 0px;
+  margin-bottom: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+.container .fifth .one .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .fifth .one .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .fifth .one .text1:hover {
+  opacity: 0.9;
+}
+.container .fifth .one .text {
+  width: 267px;
+  height: 95px;
+}
+.container .fifth .two .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .fifth .two .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .fifth .two .text1:hover {
+  opacity: 0.9;
+}
+.container .fifth .two .text {
+  width: 267px;
+  height: 95px;
+}
+.container .fifth .three .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .fifth .three .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .fifth .three .text1:hover {
+  opacity: 0.9;
+}
+.container .fifth .three .text {
+  width: 267px;
+  height: 95px;
+}
+.container .fifth .four .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .fifth .four .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .fifth .four .text1:hover {
+  opacity: 0.9;
+}
+.container .fifth .four .text {
+  width: 267px;
+  height: 95px;
+}
+.container .sixth {
+  width: 100%;
+  height: 253px;
+  margin-left: 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+.container .sixth .one .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .sixth .one .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .sixth .one .text1:hover {
+  opacity: 0.9;
+}
+.container .sixth .one .text {
+  width: 267px;
+  height: 95px;
+}
+.container .sixth .two .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .sixth .two .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .sixth .two .text1:hover {
+  opacity: 0.9;
+}
+.container .sixth .two .text {
+  width: 267px;
+  height: 95px;
+}
+.container .sixth .three .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .sixth .three .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .sixth .three .text1:hover {
+  opacity: 0.9;
+}
+.container .sixth .three .text {
+  width: 267px;
+  height: 95px;
+}
+.container .sixth .four .pic {
+  width: 267px;
+  height: 158px;
+}
+.container .sixth .four .text1 {
+  width: 267px;
+  height: 158px;
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  top: 80px;
+  background-color: #3D7CDE;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  opacity: 0;
+  color: white;
+}
+.container .sixth .four .text1:hover {
+  opacity: 0.9;
+}
+.container .sixth .four .text {
+  width: 267px;
+  height: 95px;
+}/*# sourceMappingURL=style.css.map */
